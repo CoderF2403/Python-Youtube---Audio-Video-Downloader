@@ -2,8 +2,8 @@ import pafy
 from pytube import YouTube
 import sys
 
-
-SAVE_PATH = '/home/faisal/Downloads'
+#TODO: Insert path for download folder
+SAVE_PATH = 'YOUR PATH FOR DOWNLOAD FOLDER'
 
 
 def audiodownload(url):
